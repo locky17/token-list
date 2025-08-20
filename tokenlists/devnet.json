@@ -1,0 +1,15 @@
+{
+  "name": "custom-tokenlist-devnet",
+  "timestamp": "2025-08-20T15:35:32.294Z",
+  "tokens": [
+    {
+      "chainId": 103,
+      "address": "ApnqMMTJkcdhUu3cvbGDSwUYzuDQm6K9cXbKYy1DsnZD",
+      "symbol": "TOKEN",
+      "name": "BURN",
+      "decimals": 6,
+      "logoURI": null,
+      "tags": []
+    }
+  ]
+}
