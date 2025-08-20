@@ -5,10 +5,10 @@
     {
       "chainId": 103,
       "address": "ApnqMMTJkcdhUu3cvbGDSwUYzuDQm6K9cXbKYy1DsnZD",
-      "symbol": "TOKEN",
-      "name": "BURN",
+      "symbol": "BURN",
+      "name": "ApnqMMTJ...BURN",
       "decimals": 6,
-      "logoURI": null,
+      "logoURI": "https://example.com/logo.png",
       "tags": []
     }
   ]
